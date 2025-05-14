@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+
+# Ignore IDE files
+.idea/
+
+
+
+# Ignore requirements file
+requirements.txt
