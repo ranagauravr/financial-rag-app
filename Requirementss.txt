@@ -1,4 +1,5 @@
 aiohappyeyeballs==2.6.1
+PyPDF2
 aiohttp==3.11.18
 aiosignal==1.3.2
 altair==5.5.0
